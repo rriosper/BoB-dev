@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card 1`] = `[Function]`;
+
+exports[`CardFields 1`] = `
+<DocumentFragment>
+  .c0 {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-row-gap: md;
+  grid-column-gap: sm;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 > div {
+  font-weight: bold;
+  color: foreground;
+  text-trasnform: lowercase;
+  margin-bottom: xs;
+}
+
+.c1 > div:first-letter {
+  text-transform: uppercase;
+}
+
+<div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div>
+        Label 1
+      </div>
+      <span>
+        Value 1
+      </span>
+    </div>
+    <div
+      class="c1"
+    >
+      <div>
+        Label 2
+      </div>
+      <span>
+        Value 2
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Theme 1`] = `
+<DocumentFragment>
+  <div>
+    {"borders":{"thin":"1px solid","solid":"2px solid","thick":"3px solid","xthick":"5px solid"},"breakpoints":{"xs":0,"sm":576,"md":768,"lg":992,"xl":1200},"colors":{"text":"#000","bg":"#FFF","card":"#f2f2f2","primary":"#ef482d","foreground":"#909090","foregroundBorder":"#d2d2d2","error":"#db6f6f","gold":"#FAFAD2","silver":"#C0C0C0","bronze":"#cc6633"},"fontSizes":{"0":"1rem","1":"1.2rem","2":"1.3rem","3":"1.3rem","4":"1.5rem","5":"1.8rem"},"fontWeights":{"thin":"100","regular":"300","bold":"500"},"radii":{"card":"3px","smooth":"3px","onlyTop":"3px 3px 0 0"},"shadows":{"card":"0px 1px 2px #333333a3;","smooth":"0px 0px 0px 4px rgba(0,0,0,0.3)"},"sizes":{"xxs":"4px","xs":"8px","sm":"16px","md":"32px","lg":"64px","xl":"128px","xxl":"256px"},"space":{"none":"0","xxs":"1px","xs":"4px","sm":"8px","md":"16px","lg":"32px","xl":"64px","xxl":"128px"},"transitions":{"fast":"all 0.25s","regular":"all 0.5s","slow":"all 1s"},"zIndices":{"splash":100}}
+  </div>
+</DocumentFragment>
+`;
